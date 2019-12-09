@@ -1,5 +1,5 @@
 ---
-title: 'LAMP Environments'
+title: 'What is DNS?'
 taxonomy:
     category:
         - docs

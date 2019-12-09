@@ -1,5 +1,5 @@
 ---
-title: 'Technical Requirements / Limitations'
+title: 'Installing WordPress'
 taxonomy:
     category:
         - docs
