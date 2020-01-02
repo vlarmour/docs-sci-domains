@@ -4,8 +4,5 @@ taxonomy:
     category: docs
 ---
 
-### Chapter Number
-
-# Chapter Title
-
-Chapter description.
+# Domain Management
+This section reviews what is DNS and domain mapping.
